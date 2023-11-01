@@ -30,7 +30,7 @@
           <button type="submit" name="searchemail"  class="nav-item" style="background-color:black; border:2px solid indigo;color:Red"><b>Search_Email</b></button>&nbsp;&nbsp;&nbsp;&nbsp;
         </li>
         <li class="nav-item" style="background-color:black; border:2px solid indigo" >
-          <a class="nav-link" href="Admin_Login.jsp" style="color:red"><b>LogOut</b></a>
+          <a class="nav-link" href="index.jsp" style="color:red"><b>LogOut</b></a>
         </li>
       </ul>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>>>></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>>>></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>>>></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
